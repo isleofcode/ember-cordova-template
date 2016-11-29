@@ -1,0 +1,21 @@
+{
+  "name": "ember-cordova-template",
+  "version": "0.0.1",
+  "description": "Blank template for initting ember-cordova apps",
+  "homepage": "https://github.com/isleofcode/ember-cordova",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.coom/isleofcode/ember-cordova-template"
+  },
+  "main": "index.js",
+  "author": {
+    "name": "Alex Blom",
+    "email": "alex@isleofcode.com",
+    "url": "https://isleofcode.com"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ]
+}
